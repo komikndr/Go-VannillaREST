@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This educational project is a simple Vanilla REST API inspired and adapted from the teachings of Eli Berdensky. The goal is to provide a hands-on learning experience for building a basic RESTful API using Golang.
+This educational project is a simple Vanilla REST API inspired and adapted from the teachings of Eli Berdensky(https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/#). The goal is to provide a hands-on learning experience for building a basic RESTful API using Golang.
 
 ## Features
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vanilla-rest-api.git
+   git clone https://github.com/komikndr/Go-VannillaREST.git
    cd vanilla-rest-api
 
 
